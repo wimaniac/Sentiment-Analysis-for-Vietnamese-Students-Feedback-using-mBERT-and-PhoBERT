@@ -71,7 +71,6 @@ Các mô hình được **fine-tune trong 3 epoch** với cấu hình giống nh
 | Epoch         | 3                   |
 | Batch size    | 16                  |
 | Learning rate | 2e-5                |
-| Optimizer     | AdamW               |
 | Framework     | HuggingFace Trainer |
 
 ---
